@@ -1,0 +1,335 @@
+ IP Address: 170.104.30.17 	 Port: 23 	 SSL: No 	 Hostname: jes2ut.hr.state.or.us
+ IP Address: 139.18.4.31 	 Port: 2323 	 SSL: No 	 Hostname: mace.informatik.uni-leipzig.de
+ IP Address: 12.235.39.203 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 12.31.224.23 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 12.31.224.24 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 121.14.133.115 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 121.14.133.117 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 128.227.128.69 	 Port: 23 	 SSL: No 	 Hostname: mvsyvipa.cns.ufl.edu
+ IP Address: 128.227.128.72 	 Port: 23 	 SSL: No 	 Hostname: nermvsa.nerdc.ufl.edu
+ IP Address: 128.227.128.75 	 Port: 23 	 SSL: No 	 Hostname: nermvs.cns.ufl.edu
+ IP Address: 128.228.1.12 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 128.228.1.14 	 Port: 23 	 SSL: No 	 Hostname: uapcbeta.cuny.edu
+ IP Address: 128.228.1.15 	 Port: 23 	 SSL: No 	 Hostname: uapcmvs.cuny.edu
+ IP Address: 128.228.1.17 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 128.228.1.18 	 Port: 23 	 SSL: No 	 Hostname: uapc4.cuny.edu
+ IP Address: 128.228.1.20 	 Port: 23 	 SSL: No 	 Hostname: cunyjes3.cuny.edu
+ IP Address: 128.252.142.10 	 Port: 23 	 SSL: No 	 Hostname: wumvs2.wustl.edu
+ IP Address: 128.252.142.211 	 Port: 23 	 SSL: No 	 Hostname: wumvs3.wustl.edu
+ IP Address: 128.48.96.172 	 Port: 23 	 SSL: No 	 Hostname: ucimc-m27-eelink.ucop.edu
+ IP Address: 128.48.96.244 	 Port: 23 	 SSL: No 	 Hostname: ucsb-pchid-140.ucop.edu
+ IP Address: 128.48.96.245 	 Port: 23 	 SSL: No 	 Hostname: ucsb-pchid-160.ucop.edu
+ IP Address: 130.184.26.148 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 132.70.9.2 	 Port: 23 	 SSL: No 	 Hostname: mvsa.biu.ac.il
+ IP Address: 134.186.50.44 	 Port: 23 	 SSL: No 	 Hostname: cpsna1.corp.ca.gov
+ IP Address: 136.167.2.11 	 Port: 23 	 SSL: No 	 Hostname: bcvmcms.bc.edu
+ IP Address: 137.134.240.105 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 137.134.244.37 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 137.134.244.38 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 139.18.4.30 	 Port: 23 	 SSL: No 	 Hostname: leia.informatik.uni-leipzig.de
+ IP Address: 139.18.4.31 	 Port: 23 	 SSL: No 	 Hostname: mace.informatik.uni-leipzig.de
+ IP Address: 139.18.4.33 	 Port: 23 	 SSL: No 	 Hostname: solo.informatik.uni-leipzig.de
+ IP Address: 139.18.4.34 	 Port: 23 	 SSL: No 	 Hostname: binks.informatik.uni-leipzig.de
+ IP Address: 139.18.4.35 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 139.18.4.49 	 Port: 23 	 SSL: No 	 Hostname: harry.informatik.uni-leipzig.de
+ IP Address: 140.239.200.10 	 Port: 23 	 SSL: No 	 Hostname: 140.239.200.10.ptr.us.xo.net
+ IP Address: 141.202.28.20 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 141.254.15.200 	 Port: 23 	 SSL: No 	 Hostname: scenmvs.sysadm.suny.edu
+ IP Address: 141.66.16.218 	 Port: 23 	 SSL: No 	 Hostname: its.fiz-karlsruhe.de
+ IP Address: 146.201.218.211 	 Port: 23 	 SSL: No 	 Hostname: test.nwrdc.fsu.edu
+ IP Address: 147.156.200.61 	 Port: 23 	 SSL: No 	 Hostname: p390.ci.uv.es
+ IP Address: 147.29.116.226 	 Port: 23 	 SSL: No 	 Hostname: www.oes-cs.dk
+ IP Address: 147.29.19.17 	 Port: 23 	 SSL: No 	 Hostname: dkcscc12.csc.dk
+ IP Address: 147.29.19.33 	 Port: 23 	 SSL: No 	 Hostname: dkcscc11.csc.dk
+ IP Address: 148.100.100.15 	 Port: 23 	 SSL: No 	 Hostname: marlinux.is.marist.edu
+ IP Address: 150.146.1.21 	 Port: 23 	 SSL: No 	 Hostname: irmcnr.cedrc.cnr.it
+ IP Address: 150.215.214.66 	 Port: 23 	 SSL: No 	 Hostname: demo4.attachmate.com
+ IP Address: 152.2.46.10 	 Port: 23 	 SSL: No 	 Hostname: mvstest.ais.unc.edu
+ IP Address: 152.2.46.111 	 Port: 23 	 SSL: No 	 Hostname: mvsosd1.its.unc.edu
+ IP Address: 152.2.46.118 	 Port: 23 	 SSL: No 	 Hostname: mvsosd0.its.unc.edu
+ IP Address: 152.2.46.19 	 Port: 23 	 SSL: No 	 Hostname: mvs.adp.unc.edu
+ IP Address: 152.79.1.130 	 Port: 23 	 SSL: No 	 Hostname: ucdhs1.ucdmc.ucdavis.edu
+ IP Address: 156.144.99.22 	 Port: 23 	 SSL: No 	 Hostname: outside.arcelormittalusa.com
+ IP Address: 164.64.7.1 	 Port: 23 	 SSL: No 	 Hostname: nmgsdisd.state.nm.us
+ IP Address: 164.64.7.129 	 Port: 23 	 SSL: No 	 Hostname: nmgsdmvs2.state.nm.us
+ IP Address: 165.123.81.212 	 Port: 23 	 SSL: No 	 Hostname: iron.umis.upenn.edu
+ IP Address: 165.123.81.213 	 Port: 23 	 SSL: No 	 Hostname: ivytest.umis.upenn.edu
+ IP Address: 165.123.81.214 	 Port: 23 	 SSL: No 	 Hostname: ivy.umis.upenn.edu
+ IP Address: 165.234.92.36 	 Port: 23 	 SSL: No 	 Hostname: ranch.state.nd.us
+ IP Address: 167.192.179.194 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 170.158.1.4 	 Port: 23 	 SSL: No 	 Hostname: mvs1.cnyric.org
+ IP Address: 170.30.248.77 	 Port: 23 	 SSL: No 	 Hostname: ecommsvr.csclogic.com
+ IP Address: 170.88.83.18 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 173.161.244.77 	 Port: 23 	 SSL: No 	 Hostname: 173-161-244-77-philadelphia.hfc.comcastbusiness.net
+ IP Address: 173.165.108.177 	 Port: 23 	 SSL: No 	 Hostname: 173-165-108-177-illinois.hfc.comcastbusiness.net
+ IP Address: 173.165.108.185 	 Port: 23 	 SSL: No 	 Hostname: 173-165-108-185-illinois.hfc.comcastbusiness.net
+ IP Address: 173.165.120.163 	 Port: 23 	 SSL: No 	 Hostname: 173-165-120-163-illinois.hfc.comcastbusiness.net
+ IP Address: 173.239.143.110 	 Port: 23 	 SSL: No 	 Hostname: mail.infobal.com
+ IP Address: 174.47.13.111 	 Port: 23 	 SSL: No 	 Hostname: 174-47-13-111.static.twtelecom.net
+ IP Address: 174.47.13.112 	 Port: 23 	 SSL: No 	 Hostname: 174-47-13-112.static.twtelecom.net
+ IP Address: 177.126.189.195 	 Port: 23 	 SSL: No 	 Hostname: 195.189.126.177.static.sp2.alog.com.br
+ IP Address: 180.92.170.196 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 180.92.170.199 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 192.234.160.246 	 Port: 23 	 SSL: No 	 Hostname: wsip-192-234-160-246.om.om.cox.net
+ IP Address: 192.49.228.18 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 192.86.33.198 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 193.255.9.10 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 194.196.14.102 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 195.19.33.216 	 Port: 23 	 SSL: No 	 Hostname: h216.net33.bmstu.ru
+ IP Address: 195.245.205.13 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 198.175.229.252 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 199.190.128.12 	 Port: 23 	 SSL: No 	 Hostname: blackmesa.oklaosf.state.ok.us
+ IP Address: 199.190.128.15 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 199.190.128.4 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 199.34.66.35 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 199.44.167.183 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 199.44.167.66 	 Port: 23 	 SSL: No 	 Hostname: zos.s390.mainline.com
+ IP Address: 199.44.167.9 	 Port: 23 	 SSL: No 	 Hostname: mps.s390.mainline.com
+ IP Address: 200.164.109.38 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 200.164.109.57 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 200.164.109.58 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 200.52.78.14 	 Port: 23 	 SSL: No 	 Hostname: static-host-14.ptr200-52-78.ferromex.com.mx
+ IP Address: 200.52.78.45 	 Port: 23 	 SSL: No 	 Hostname: static-host-45.ptr200-52-78.ferromex.com.mx
+ IP Address: 202.14.186.30 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 203.174.55.195 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 203.41.2.86 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 203.41.2.99 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 204.78.126.6 	 Port: 23 	 SSL: No 	 Hostname: escdch.escambia.k12.fl.us
+ IP Address: 205.141.201.22 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 205.141.201.23 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 205.141.201.24 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 205.141.201.25 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 205.141.201.26 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 205.141.201.27 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 205.141.201.28 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 205.141.201.29 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 205.141.201.30 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 205.149.70.49 	 Port: 23 	 SSL: No 	 Hostname: zvm.sru.edu
+ IP Address: 206.197.159.18 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 206.197.159.73 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 207.138.62.86 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 207.195.52.20 	 Port: 23 	 SSL: No 	 Hostname: tn3270.fcl.ca
+ IP Address: 207.195.52.8 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 207.214.53.12 	 Port: 23 	 SSL: No 	 Hostname: ws-207-214-53-12.cityofinglewood.org
+ IP Address: 207.245.47.112 	 Port: 23 	 SSL: No 	 Hostname: 207-245-47-112.dedicated.allstream.net
+ IP Address: 207.245.47.113 	 Port: 23 	 SSL: No 	 Hostname: 207-245-47-113.dedicated.allstream.net
+ IP Address: 208.253.88.254 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 208.90.52.32 	 Port: 23 	 SSL: No 	 Hostname: osweb.cuyahogacounty.us
+ IP Address: 210.39.14.202 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 212.221.26.7 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 212.247.25.4 	 Port: 23 	 SSL: No 	 Hostname: vm.se.lsoft.com
+ IP Address: 212.31.235.82 	 Port: 23 	 SSL: No 	 Hostname: sna.sefin.it
+ IP Address: 212.46.59.31 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 213.193.121.28 	 Port: 23 	 SSL: No 	 Hostname: 213-193-121-28.static.cablecom.ch
+ IP Address: 216.125.249.40 	 Port: 23 	 SSL: No 	 Hostname: s390.parkland.edu
+ IP Address: 216.157.236.51 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 216.25.193.138 	 Port: 23 	 SSL: No 	 Hostname: ip-216-25-193-138.r193.bluehilldata.com
+ IP Address: 216.27.12.62 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 216.77.62.20 	 Port: 23 	 SSL: No 	 Hostname: pas.mimc.com
+ IP Address: 217.139.96.100 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 217.139.96.156 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 217.139.96.200 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 24.155.125.102 	 Port: 23 	 SSL: No 	 Hostname: 24-155-125-102.static.grandenetworks.net
+ IP Address: 24.249.249.170 	 Port: 23 	 SSL: No 	 Hostname: wsip-24-249-249-170.dc.dc.cox.net
+ IP Address: 24.38.42.163 	 Port: 23 	 SSL: No 	 Hostname: 18262aa3.cst.lightpath.net
+ IP Address: 50.73.164.200 	 Port: 23 	 SSL: No 	 Hostname: 50-73-164-200-pennsylvania.hfc.comcastbusiness.net
+ IP Address: 58.246.137.126 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 63.243.3.138 	 Port: 23 	 SSL: No 	 Hostname: 138.execuserv.uslec.net
+ IP Address: 63.243.3.146 	 Port: 23 	 SSL: No 	 Hostname: 146.execuserv.uslec.net
+ IP Address: 63.243.3.155 	 Port: 23 	 SSL: No 	 Hostname: 155.execuserv.uslec.net
+ IP Address: 64.162.122.98 	 Port: 23 	 SSL: No 	 Hostname: ics.isuzunet.com
+ IP Address: 64.186.53.16 	 Port: 23 	 SSL: No 	 Hostname: mf.saginawcounty.com
+ IP Address: 64.28.198.193 	 Port: 23 	 SSL: No 	 Hostname: znet.it-ology.org
+ IP Address: 64.50.48.233 	 Port: 23 	 SSL: No 	 Hostname: 64.50.48.233.ptr.us.xo.net
+ IP Address: 64.50.48.234 	 Port: 23 	 SSL: No 	 Hostname: 64.50.48.234.ptr.us.xo.net
+ IP Address: 64.50.48.235 	 Port: 23 	 SSL: No 	 Hostname: 64.50.48.235.ptr.us.xo.net
+ IP Address: 64.79.74.27 	 Port: 23 	 SSL: No 	 Hostname: 1b.4a.4f.static.xlhost.com
+ IP Address: 65.19.149.252 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 65.196.87.141 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 65.196.87.142 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 65.196.87.154 	 Port: 23 	 SSL: No 	 Hostname: www.stadiumbarrest.com
+ IP Address: 66.135.99.250 	 Port: 23 	 SSL: No 	 Hostname: ftp.dragonflyserver.com
+ IP Address: 66.228.129.117 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 66.238.234.110 	 Port: 23 	 SSL: No 	 Hostname: 66.238.234.110.ptr.us.xo.net
+ IP Address: 66.252.186.222 	 Port: 23 	 SSL: No 	 Hostname: p390.themisinc.com
+ IP Address: 67.218.99.131 	 Port: 23 	 SSL: No 	 Hostname: 67-218-99-131.cust.layer42.net
+ IP Address: 67.218.99.132 	 Port: 23 	 SSL: No 	 Hostname: 67-218-99-132.cust.layer42.net
+ IP Address: 70.164.255.195 	 Port: 23 	 SSL: No 	 Hostname: wsip-70-164-255-195.dc.dc.cox.net
+ IP Address: 71.191.86.90 	 Port: 23 	 SSL: No 	 Hostname: static-71-191-86-90.washdc.fios.verizon.net
+ IP Address: 72.237.170.23 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 74.168.206.164 	 Port: 23 	 SSL: No 	 Hostname: adsl-074-168-206-164.sip.rmo.bellsouth.net
+ IP Address: 74.174.202.15 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 77.88.106.3 	 Port: 23 	 SSL: No 	 Hostname: www.autodata.no
+ IP Address: 79.172.240.141 	 Port: 23 	 SSL: No 	 Hostname: specivm.icss.hu
+ IP Address: 81.80.140.164 	 Port: 23 	 SSL: No 	 Hostname: not found
+ IP Address: 82.221.36.65 	 Port: 23 	 SSL: No 	 Hostname: px-mvs1.skyrr.is
+ IP Address: 85.18.27.252 	 Port: 23 	 SSL: No 	 Hostname: 85-18-27-252.ip.fastwebnet.it
+ IP Address: 88.79.177.123 	 Port: 23 	 SSL: No 	 Hostname: business-088-079-177-123.static.arcor-ip.net
+ IP Address: 98.114.88.14 	 Port: 23 	 SSL: No 	 Hostname: static-98-114-88-14.phlapa.fios.verizon.net
+ IP Address: 148.100.80.70 	 Port: 1023 	 SSL: No 	 Hostname: zos7.kctr.marist.edu
+ IP Address: 128.186.217.2 	 Port: 2323 	 SSL: No 	 Hostname: nwalt.fsu.edu
+ IP Address: 131.216.221.21 	 Port: 2323 	 SSL: No 	 Hostname: scorpion.nevada.edu
+ IP Address: 131.216.221.24 	 Port: 2323 	 SSL: No 	 Hostname: raptor.nevada.edu
+ IP Address: 199.44.72.2 	 Port: 2323 	 SSL: No 	 Hostname: nwr.nwrdc.fsu.edu
+ IP Address: 199.44.72.3 	 Port: 2323 	 SSL: No 	 Hostname: not found
+ IP Address: 128.231.64.34 	 Port: 23 	 SSL: Yes 	 Hostname: tn3270.cu.nih.gov
+ IP Address: 130.184.5.80 	 Port: 23 	 SSL: Yes 	 Hostname: admin.uark.edu
+ IP Address: 130.39.253.200 	 Port: 23 	 SSL: Yes 	 Hostname: lsumvs.sncc.lsu.edu
+ IP Address: 131.216.221.18 	 Port: 23 	 SSL: Yes 	 Hostname: mustang.nevada.edu
+ IP Address: 131.216.221.21 	 Port: 23 	 SSL: Yes 	 Hostname: scorpion.nevada.edu
+ IP Address: 131.216.221.24 	 Port: 23 	 SSL: Yes 	 Hostname: raptor.nevada.edu
+ IP Address: 134.197.221.18 	 Port: 23 	 SSL: Yes 	 Hostname: bighorn.scsr.nevada.edu
+ IP Address: 134.2.14.211 	 Port: 23 	 SSL: Yes 	 Hostname: frodo.informatik.uni-tuebingen.de
+ IP Address: 134.2.205.54 	 Port: 23 	 SSL: Yes 	 Hostname: u-205-chobbit.cs.uni-tuebingen.de
+ IP Address: 137.99.26.5 	 Port: 23 	 SSL: Yes 	 Hostname: uconnmvs.uconn.edu
+ IP Address: 138.47.18.39 	 Port: 23 	 SSL: Yes 	 Hostname: os390.latech.edu
+ IP Address: 167.192.62.210 	 Port: 23 	 SSL: Yes 	 Hostname: not found
+ IP Address: 168.254.2.10 	 Port: 23 	 SSL: Yes 	 Hostname: sdhc10.sdhc.k12.fl.us
+ IP Address: 198.81.193.6 	 Port: 23 	 SSL: Yes 	 Hostname: dtsc.dfw.ibm.com
+ IP Address: 200.187.0.40 	 Port: 23 	 SSL: Yes 	 Hostname: cpu000041.ba.gov.br
+ IP Address: 128.135.19.10 	 Port: 992 	 SSL: Yes 	 Hostname: uchimvs1.uchicago.edu
+ IP Address: 128.148.18.13 	 Port: 992 	 SSL: Yes 	 Hostname: brownmvscit.brown.edu
+ IP Address: 128.148.18.14 	 Port: 992 	 SSL: Yes 	 Hostname: mvstestcit.brown.edu
+ IP Address: 128.148.18.63 	 Port: 992 	 SSL: Yes 	 Hostname: brownmvs.failover.admin.brown.edu
+ IP Address: 128.148.18.64 	 Port: 992 	 SSL: Yes 	 Hostname: mvstest.failover.admin.brown.edu
+ IP Address: 128.186.217.2 	 Port: 992 	 SSL: Yes 	 Hostname: nwalt.fsu.edu
+ IP Address: 128.194.103.18 	 Port: 992 	 SSL: Yes 	 Hostname: teague-tammvs1.tamu.edu
+ IP Address: 128.197.90.40 	 Port: 992 	 SSL: Yes 	 Hostname: uisa.bu.edu
+ IP Address: 128.227.128.69 	 Port: 992 	 SSL: Yes 	 Hostname: mvsyvipa.cns.ufl.edu
+ IP Address: 128.227.128.72 	 Port: 992 	 SSL: Yes 	 Hostname: nermvsa.nerdc.ufl.edu
+ IP Address: 128.227.128.75 	 Port: 992 	 SSL: Yes 	 Hostname: nermvs.cns.ufl.edu
+ IP Address: 128.228.1.20 	 Port: 992 	 SSL: Yes 	 Hostname: cunyjes3.cuny.edu
+ IP Address: 128.48.96.126 	 Port: 992 	 SSL: Yes 	 Hostname: uc50-vipf.ucop.edu
+ IP Address: 128.48.96.128 	 Port: 992 	 SSL: Yes 	 Hostname: ucimc-mvsvps.ucop.edu
+ IP Address: 128.48.96.165 	 Port: 992 	 SSL: Yes 	 Hostname: cpua-uc10-pchid-141.ucop.edu
+ IP Address: 128.48.96.167 	 Port: 992 	 SSL: Yes 	 Hostname: cpua-uc10-pchid-161.ucop.edu
+ IP Address: 128.48.96.168 	 Port: 992 	 SSL: Yes 	 Hostname: cpub-uc30-pchid-121.ucop.edu
+ IP Address: 128.48.96.170 	 Port: 992 	 SSL: Yes 	 Hostname: cpub-uc30-pchid-151.ucop.edu
+ IP Address: 128.48.96.172 	 Port: 992 	 SSL: Yes 	 Hostname: ucimc-m27-eelink.ucop.edu
+ IP Address: 128.48.96.192 	 Port: 992 	 SSL: Yes 	 Hostname: dog.ucop.edu
+ IP Address: 128.48.96.193 	 Port: 992 	 SSL: Yes 	 Hostname: uccmvst-plink-01.ucop.edu
+ IP Address: 128.48.96.194 	 Port: 992 	 SSL: Yes 	 Hostname: ucdbras.ucop.edu
+ IP Address: 128.48.96.195 	 Port: 992 	 SSL: Yes 	 Hostname: ucdbrat.ucop.edu
+ IP Address: 128.48.96.196 	 Port: 992 	 SSL: Yes 	 Hostname: mvst-eelink.ucop.edu
+ IP Address: 128.48.96.197 	 Port: 992 	 SSL: Yes 	 Hostname: dogtest-vipa.ucop.edu
+ IP Address: 128.48.96.199 	 Port: 992 	 SSL: Yes 	 Hostname: uc30-viph.ucop.edu
+ IP Address: 128.48.96.231 	 Port: 992 	 SSL: Yes 	 Hostname: tsmp1.ucop.edu
+ IP Address: 128.48.96.235 	 Port: 992 	 SSL: Yes 	 Hostname: vtape-ucsd-p2p.ucop.edu
+ IP Address: 128.48.96.243 	 Port: 992 	 SSL: Yes 	 Hostname: ucsb-vipa.ucop.edu
+ IP Address: 128.48.96.244 	 Port: 992 	 SSL: Yes 	 Hostname: ucsb-pchid-140.ucop.edu
+ IP Address: 128.48.96.245 	 Port: 992 	 SSL: Yes 	 Hostname: ucsb-pchid-160.ucop.edu
+ IP Address: 128.48.96.51 	 Port: 992 	 SSL: Yes 	 Hostname: uc10-vipa.ucop.edu
+ IP Address: 128.48.96.54 	 Port: 992 	 SSL: Yes 	 Hostname: mvsb-vlink1.ucop.edu
+ IP Address: 128.48.96.55 	 Port: 992 	 SSL: Yes 	 Hostname: mvsb-eelink.ucop.edu
+ IP Address: 128.48.96.57 	 Port: 992 	 SSL: Yes 	 Hostname: uc10-vipb.ucop.edu
+ IP Address: 128.48.96.58 	 Port: 992 	 SSL: Yes 	 Hostname: uc10-vipc.ucop.edu
+ IP Address: 128.48.96.64 	 Port: 992 	 SSL: Yes 	 Hostname: uc30-vipa.ucop.edu
+ IP Address: 128.48.96.67 	 Port: 992 	 SSL: Yes 	 Hostname: uc30-vipb.ucop.edu
+ IP Address: 128.48.96.68 	 Port: 992 	 SSL: Yes 	 Hostname: uc30-vipc.ucop.edu
+ IP Address: 130.127.160.2 	 Port: 992 	 SSL: Yes 	 Hostname: mvsvtam.clemson.edu
+ IP Address: 130.127.28.10 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 130.70.131.131 	 Port: 992 	 SSL: Yes 	 Hostname: mvs.louisiana.edu
+ IP Address: 130.70.132.132 	 Port: 992 	 SSL: Yes 	 Hostname: oistest.louisiana.edu
+ IP Address: 134.121.1.49 	 Port: 992 	 SSL: Yes 	 Hostname: aisdevl.it.wsu.edu
+ IP Address: 134.121.1.5 	 Port: 992 	 SSL: Yes 	 Hostname: wsumvs1.it.wsu.edu
+ IP Address: 134.121.1.58 	 Port: 992 	 SSL: Yes 	 Hostname: bootstrap.it.wsu.edu
+ IP Address: 137.134.244.106 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 137.134.244.115 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 137.99.26.5 	 Port: 992 	 SSL: Yes 	 Hostname: uconnmvs.uconn.edu
+ IP Address: 138.23.225.207 	 Port: 992 	 SSL: Yes 	 Hostname: ibmtst1.ucr.edu
+ IP Address: 138.23.225.208 	 Port: 992 	 SSL: Yes 	 Hostname: ibmtst2.ucr.edu
+ IP Address: 138.23.225.209 	 Port: 992 	 SSL: Yes 	 Hostname: ibmprd1.ucr.edu
+ IP Address: 138.23.225.210 	 Port: 992 	 SSL: Yes 	 Hostname: ucribm.ucr.edu
+ IP Address: 138.23.225.211 	 Port: 992 	 SSL: Yes 	 Hostname: ibmprd2.ucr.edu
+ IP Address: 138.23.225.22 	 Port: 992 	 SSL: Yes 	 Hostname: ibmtest2.ucr.edu
+ IP Address: 143.43.193.26 	 Port: 992 	 SSL: Yes 	 Hostname: mvs.wiu.edu
+ IP Address: 143.43.193.33 	 Port: 992 	 SSL: Yes 	 Hostname: stumvs.wiu.edu
+ IP Address: 146.201.218.211 	 Port: 992 	 SSL: Yes 	 Hostname: test.nwrdc.fsu.edu
+ IP Address: 153.110.169.3 	 Port: 992 	 SSL: Yes 	 Hostname: e-torg.hamar.edb.com
+ IP Address: 162.114.16.46 	 Port: 992 	 SSL: Yes 	 Hostname: dishost.state.ky.us
+ IP Address: 162.114.24.14 	 Port: 992 	 SSL: Yes 	 Hostname: cdc2.state.ky.us
+ IP Address: 164.64.7.1 	 Port: 992 	 SSL: Yes 	 Hostname: nmgsdisd.state.nm.us
+ IP Address: 164.64.7.129 	 Port: 992 	 SSL: Yes 	 Hostname: nmgsdmvs2.state.nm.us
+ IP Address: 164.64.7.241 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 164.64.7.250 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 164.64.7.251 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 164.67.134.200 	 Port: 992 	 SSL: Yes 	 Hostname: zos.ais.ucla.edu
+ IP Address: 164.67.134.201 	 Port: 992 	 SSL: Yes 	 Hostname: zostm.ais.ucla.edu
+ IP Address: 165.123.81.212 	 Port: 992 	 SSL: Yes 	 Hostname: iron.umis.upenn.edu
+ IP Address: 165.123.81.213 	 Port: 992 	 SSL: Yes 	 Hostname: ivytest.umis.upenn.edu
+ IP Address: 165.123.81.214 	 Port: 992 	 SSL: Yes 	 Hostname: ivy.umis.upenn.edu
+ IP Address: 165.20.111.25 	 Port: 992 	 SSL: Yes 	 Hostname: prereg.nmh.org
+ IP Address: 165.221.4.12 	 Port: 992 	 SSL: Yes 	 Hostname: debes.usda.gov
+ IP Address: 165.221.4.13 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 165.221.4.42 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 165.221.4.43 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 165.221.4.45 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 167.131.4.2 	 Port: 992 	 SSL: Yes 	 Hostname: odot.odot.state.or.us
+ IP Address: 168.254.2.10 	 Port: 992 	 SSL: Yes 	 Hostname: sdhc10.sdhc.k12.fl.us
+ IP Address: 168.254.2.20 	 Port: 992 	 SSL: Yes 	 Hostname: dbsvr1.sdhc.k12.fl.us
+ IP Address: 168.254.2.30 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 170.104.128.11 	 Port: 992 	 SSL: Yes 	 Hostname: dhrmf.hr.state.or.us
+ IP Address: 170.104.30.17 	 Port: 992 	 SSL: Yes 	 Hostname: jes2ut.hr.state.or.us
+ IP Address: 170.104.30.33 	 Port: 992 	 SSL: Yes 	 Hostname: dhroc.hr.state.or.us
+ IP Address: 170.104.30.57 	 Port: 992 	 SSL: Yes 	 Hostname: dhrocut.hr.state.or.us
+ IP Address: 170.104.67.74 	 Port: 992 	 SSL: Yes 	 Hostname: dhrgw.hr.state.or.us
+ IP Address: 170.30.248.77 	 Port: 992 	 SSL: Yes 	 Hostname: ecommsvr.csclogic.com
+ IP Address: 174.47.13.111 	 Port: 992 	 SSL: Yes 	 Hostname: 174-47-13-111.static.twtelecom.net
+ IP Address: 192.56.231.81 	 Port: 992 	 SSL: Yes 	 Hostname: tcpipsyw.cat.com
+ IP Address: 192.86.33.126 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 194.224.151.195 	 Port: 992 	 SSL: Yes 	 Hostname: emulador.catalanaoccidente.com
+ IP Address: 198.177.95.176 	 Port: 992 	 SSL: Yes 	 Hostname: eportal-asys.aurora.org
+ IP Address: 199.10.32.81 	 Port: 992 	 SSL: Yes 	 Hostname: pensys1.army.pentagon.mil
+ IP Address: 199.44.72.2 	 Port: 992 	 SSL: Yes 	 Hostname: nwr.nwrdc.fsu.edu
+ IP Address: 199.44.72.3 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 201.49.161.137 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 204.113.16.167 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 204.113.16.169 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 204.113.16.170 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 204.113.16.199 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 204.113.16.202 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 204.78.126.6 	 Port: 992 	 SSL: Yes 	 Hostname: escdch.escambia.k12.fl.us
+ IP Address: 205.149.70.48 	 Port: 992 	 SSL: Yes 	 Hostname: sruvm.sru.edu
+ IP Address: 207.192.46.22 	 Port: 992 	 SSL: Yes 	 Hostname: sccc.its.state.nc.us
+ IP Address: 207.192.49.5 	 Port: 992 	 SSL: Yes 	 Hostname: scct.its.state.nc.us
+ IP Address: 207.192.50.150 	 Port: 992 	 SSL: Yes 	 Hostname: sccw.its.state.nc.us
+ IP Address: 207.192.50.170 	 Port: 992 	 SSL: Yes 	 Hostname: db2.its.state.nc.us
+ IP Address: 207.192.50.50 	 Port: 992 	 SSL: Yes 	 Hostname: time01.nc.gov
+ IP Address: 207.192.50.90 	 Port: 992 	 SSL: Yes 	 Hostname: scce.sips.state.nc.us
+ IP Address: 209.114.111.17 	 Port: 992 	 SSL: Yes 	 Hostname: fhsuvm.fhsu.edu
+ IP Address: 212.221.26.7 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 216.25.193.57 	 Port: 992 	 SSL: Yes 	 Hostname: xybernet.bluehilldata.com
+ IP Address: 216.25.193.59 	 Port: 992 	 SSL: Yes 	 Hostname: mail.xycor.com
+ IP Address: 216.25.194.197 	 Port: 992 	 SSL: Yes 	 Hostname: zos.datadist.com
+ IP Address: 63.243.3.146 	 Port: 992 	 SSL: Yes 	 Hostname: 146.execuserv.uslec.net
+ IP Address: 63.87.171.41 	 Port: 992 	 SSL: Yes 	 Hostname: www.acsonline.com
+ IP Address: 65.114.122.182 	 Port: 992 	 SSL: Yes 	 Hostname: z9part1.forestcity.winnebagoind.com
+ IP Address: 65.196.87.141 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 65.196.87.154 	 Port: 992 	 SSL: Yes 	 Hostname: www.stadiumbarrest.com
+ IP Address: 65.83.107.198 	 Port: 992 	 SSL: Yes 	 Hostname: pcdv2r30.palmcoastd.com
+ IP Address: 66.144.176.215 	 Port: 992 	 SSL: Yes 	 Hostname: not found
+ IP Address: 74.168.206.164 	 Port: 992 	 SSL: Yes 	 Hostname: adsl-074-168-206-164.sip.rmo.bellsouth.net
+ IP Address: 128.228.1.12 	 Port: 1023 	 SSL: Yes 	 Hostname: not found
+ IP Address: 128.228.1.14 	 Port: 1023 	 SSL: Yes 	 Hostname: uapcbeta.cuny.edu
+ IP Address: 128.228.1.15 	 Port: 1023 	 SSL: Yes 	 Hostname: uapcmvs.cuny.edu
+ IP Address: 128.228.1.17 	 Port: 1023 	 SSL: Yes 	 Hostname: not found
+ IP Address: 128.231.64.34 	 Port: 2323 	 SSL: Yes 	 Hostname: tn3270.cu.nih.gov
+ IP Address: 129.252.117.200 	 Port: 2323 	 SSL: Yes 	 Hostname: mvs.sc.edu
+ IP Address: 129.252.117.201 	 Port: 2323 	 SSL: Yes 	 Hostname: mvs.sc.edu
+ IP Address: 130.184.5.80 	 Port: 2323 	 SSL: Yes 	 Hostname: admin.uark.edu
+ IP Address: 132.70.9.2 	 Port: 2323 	 SSL: Yes 	 Hostname: mvsa.biu.ac.il
+ IP Address: 161.7.90.3 	 Port: 2323 	 SSL: Yes 	 Hostname: hlnctr.mt.gov
+ IP Address: 168.254.2.10 	 Port: 2323 	 SSL: Yes 	 Hostname: sdhc10.sdhc.k12.fl.us
+ IP Address: 168.254.2.20 	 Port: 2323 	 SSL: Yes 	 Hostname: dbsvr1.sdhc.k12.fl.us
+ IP Address: 168.254.2.30 	 Port: 2323 	 SSL: Yes 	 Hostname: not found
+ IP Address: 198.136.160.21 	 Port: 2323 	 SSL: Yes 	 Hostname: not found
+ IP Address: 130.39.253.200 	 Port: 5023 	 SSL: Yes 	 Hostname: lsumvs.sncc.lsu.edu
+ IP Address: 134.121.1.49 	 Port: 9023 	 SSL: Yes 	 Hostname: aisdevl.it.wsu.edu
+ IP Address: 134.121.1.5 	 Port: 9023 	 SSL: Yes 	 Hostname: wsumvs1.it.wsu.edu
+ IP Address: 134.121.1.58 	 Port: 9023 	 SSL: Yes 	 Hostname: bootstrap.it.wsu.edu
+ IP Address: 199.34.66.35 	 Port: 9023 	 SSL: Yes 	 Hostname: not found
+ IP Address: 165.234.92.36 	 Port: 9023 	 SSL: No 	 Hostname: ranch.state.nd.us
+ IP Address: 139.18.4.49 	 Port: 1023 	 SSL: No 	 Hostname: harry.informatik.uni-leipzig.de
+ IP Address: 162.114.16.46 	 Port: 9023 	 SSL: No 	 Hostname: dishost.state.ky.us
+ IP Address: 162.114.24.14 	 Port: 9023 	 SSL: No 	 Hostname: cdc2.state.ky.us
+ IP Address: 162.114.24.14 	 Port: 23023 	 SSL: No 	 Hostname: cdc2.state.ky.us
